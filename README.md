@@ -1,2 +1,2 @@
 # proj-vive
-übbungsprojekt einstieg githaub
+übbungsprojekt einstieg githaub/Senf dazugeben
